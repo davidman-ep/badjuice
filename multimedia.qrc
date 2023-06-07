@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/fondomadera.png</file>
+        <file>recursos/icono.ico</file>
+        <file>recursos/splashp.png</file>
+        <file>recursos/araña.png</file>
+        <file>recursos/banano.png</file>
+        <file>recursos/botella.png</file>
+        <file>recursos/cigarro.png</file>
+        <file>recursos/cucaracha.png</file>
+        <file>recursos/cuchillo.png</file>
+        <file>recursos/fresa.png</file>
+        <file>recursos/grillo.png</file>
+        <file>recursos/gusano.png</file>
+        <file>recursos/lata.png</file>
+        <file>recursos/mango.png</file>
+        <file>recursos/manzana.png</file>
+        <file>recursos/mora.png</file>
+        <file>recursos/naranja.png</file>
+        <file>recursos/pera.png</file>
+        <file>recursos/raton.png</file>
+        <file>recursos/sandia.png</file>
+        <file>recursos/zapato.png</file>
+    </qresource>
+</RCC>
